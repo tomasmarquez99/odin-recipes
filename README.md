@@ -1,1 +1,2 @@
+In this project I following The Odin Project Full stack path, and this is the first project of the course. I will demostrate my abilities in HTML, and afterwards, I will add some CSS style.
 # odin-recipes
