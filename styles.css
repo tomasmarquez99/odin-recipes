@@ -1,0 +1,21 @@
+body {
+    background-color: skyblue;
+}
+
+h1, h2, h3 {
+    font-family: fantasy;
+}
+
+ul li, ol li{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.uruguay-flag {
+    text-align: center;
+}
+
